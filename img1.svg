@@ -47,7 +47,7 @@
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22452" />
+     inkscape:current-layer="layer2" />
   <title
      id="title22454">SVG Picture created as pmod-wifi.sch.svg date 2019/09/01 08:41:47 </title>
   <desc
@@ -66,422 +66,119 @@
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22464" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22466">
-    <rect
-       x="69690"
-       y="65360"
-       width="42520"
-       height="12600"
-       rx="0"
-       id="rect22468" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22470" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22472">
-    <rect
-       x="3940"
-       y="3940"
-       width="109050"
-       height="74800"
-       rx="0"
-       id="rect22474" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22476" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22478">
-    <rect
-       x="4720"
-       y="4720"
-       width="107490"
-       height="73240"
-       rx="0"
-       id="rect22480" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22482" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22484">
-    <path
-       d="M23620 4720 L23620 3940 "
-       id="path22486" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22488" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22490">
-    <path
-       d="M43310 4720 L43310 3940 "
-       id="path22492" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22494" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22496">
-    <path
-       d="M62990 4720 L62990 3940 "
-       id="path22498" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22500" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22502">
-    <path
-       d="M82680 4720 L82680 3940 "
-       id="path22504" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22506" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22508">
-    <path
-       d="M102360 4720 L102360 3940 "
-       id="path22510" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22512" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22514">
-    <path
-       d="M14170 4560 L13880 4560 "
-       id="path22516" />
-    <path
-       d="M14020 4560 L14020 4050 L13970 4120 L13930 4170 L13880 4190 "
-       id="path22518" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22520" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22522">
-    <path
-       d="M33560 4090 L33580 4070 L33630 4050 L33750 4050 L33800 4070 L33820 4090 L33850 4140 L33850 4190 L33820 4260 L33530 4560 L33850 4560 "
-       id="path22524" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22526" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22528">
-    <path
-       d="M53220 4050 L53540 4050 L53370 4240 L53440 4240 L53490 4260 L53510 4290 L53540 4340 L53540 4460 L53510 4510 L53490 4530 L53440 4560 L53300 4560 L53250 4530 L53220 4510 "
-       id="path22530" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22532" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22534">
-    <path
-       d="M73170 4220 L73170 4560 "
-       id="path22536" />
-    <path
-       d="M73050 4020 L72930 4390 L73240 4390 "
-       id="path22538" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22540" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22542">
-    <path
-       d="M92880 4050 L92640 4050 L92620 4290 L92640 4260 L92690 4240 L92810 4240 L92860 4260 L92880 4290 L92910 4340 L92910 4460 L92880 4510 L92860 4530 L92810 4560 L92690 4560 L92640 4530 L92620 4510 "
-       id="path22544" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22546" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22548">
-    <path
-       d="M112540 4050 L112440 4050 L112390 4070 L112370 4090 L112320 4170 L112300 4260 L112300 4460 L112320 4510 L112350 4530 L112390 4560 L112490 4560 L112540 4530 L112560 4510 L112590 4460 L112590 4340 L112560 4290 L112540 4260 L112490 4240 L112390 4240 L112350 4260 L112320 4290 L112300 4340 "
-       id="path22550" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22552" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22554">
-    <path
-       d="M23620 77960 L23620 78740 "
-       id="path22556" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22558" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22560">
-    <path
-       d="M43310 77960 L43310 78740 "
-       id="path22562" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22564" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22566">
-    <path
-       d="M62990 77960 L62990 78740 "
-       id="path22568" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22570" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22572">
-    <path
-       d="M82680 77960 L82680 78740 "
-       id="path22574" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22576" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22578">
-    <path
-       d="M102360 77960 L102360 78740 "
-       id="path22580" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22582" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22584">
-    <path
-       d="M14170 78580 L13880 78580 "
-       id="path22586" />
-    <path
-       d="M14020 78580 L14020 78070 L13970 78140 L13930 78190 L13880 78210 "
-       id="path22588" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22590" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22592">
-    <path
-       d="M33560 78110 L33580 78090 L33630 78070 L33750 78070 L33800 78090 L33820 78110 L33850 78160 L33850 78210 L33820 78280 L33530 78580 L33850 78580 "
-       id="path22594" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22596" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22598">
-    <path
-       d="M53220 78070 L53540 78070 L53370 78260 L53440 78260 L53490 78280 L53510 78310 L53540 78360 L53540 78480 L53510 78530 L53490 78550 L53440 78580 L53300 78580 L53250 78550 L53220 78530 "
-       id="path22600" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22602" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22604">
-    <path
-       d="M73170 78240 L73170 78580 "
-       id="path22606" />
-    <path
-       d="M73050 78040 L72930 78410 L73240 78410 "
-       id="path22608" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22610" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22612">
-    <path
-       d="M92880 78070 L92640 78070 L92620 78310 L92640 78280 L92690 78260 L92810 78260 L92860 78280 L92880 78310 L92910 78360 L92910 78480 L92880 78530 L92860 78550 L92810 78580 L92690 78580 L92640 78550 L92620 78530 "
-       id="path22614" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22616" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22618">
-    <path
-       d="M112540 78070 L112440 78070 L112390 78090 L112370 78110 L112320 78190 L112300 78280 L112300 78480 L112320 78530 L112350 78550 L112390 78580 L112490 78580 L112540 78550 L112560 78530 L112590 78480 L112590 78360 L112560 78310 L112540 78280 L112490 78260 L112390 78260 L112350 78280 L112320 78310 L112300 78360 "
-       id="path22620" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22622" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22624">
-    <path
-       d="M3940 23620 L4720 23620 "
-       id="path22626" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22628" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22630">
-    <path
-       d="M3940 43310 L4720 43310 "
-       id="path22632" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22634" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22636">
-    <path
-       d="M3940 62990 L4720 62990 "
-       id="path22638" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22640" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22642">
-    <path
-       d="M4210 13860 L4450 13860 "
-       id="path22644" />
-    <path
-       d="M4160 14010 L4330 13500 L4500 14010 "
-       id="path22646" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22648" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22650">
-    <path
-       d="M4370 33420 L4440 33440 L4470 33470 L4490 33520 L4490 33590 L4470 33640 L4440 33660 L4400 33690 L4200 33690 L4200 33180 L4370 33180 L4420 33200 L4440 33220 L4470 33270 L4470 33320 L4440 33370 L4420 33390 L4370 33420 L4200 33420 "
-       id="path22652" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22654" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22656">
-    <path
-       d="M4490 53330 L4470 53350 L4400 53380 L4350 53380 L4270 53350 L4230 53300 L4200 53250 L4180 53160 L4180 53080 L4200 52990 L4230 52940 L4270 52890 L4350 52870 L4400 52870 L4470 52890 L4490 52910 "
-       id="path22658" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22660" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22662">
-    <path
-       d="M4200 73060 L4200 72550 L4320 72550 L4400 72570 L4440 72620 L4470 72670 L4490 72760 L4490 72840 L4470 72930 L4440 72980 L4400 73030 L4320 73060 L4200 73060 "
-       id="path22664" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22666" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22668">
-    <path
-       d="M112990 23620 L112210 23620 "
-       id="path22670" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22672" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22674">
-    <path
-       d="M112990 43310 L112210 43310 "
-       id="path22676" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22678" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22680">
-    <path
-       d="M112990 62990 L112210 62990 "
-       id="path22682" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22684" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22686">
-    <path
-       d="M112480 13860 L112720 13860 "
-       id="path22688" />
-    <path
-       d="M112430 14010 L112600 13500 L112770 14010 "
-       id="path22690" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22692" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22694">
-    <path
-       d="M112640 33420 L112710 33440 L112740 33470 L112760 33520 L112760 33590 L112740 33640 L112710 33660 L112670 33690 L112470 33690 L112470 33180 L112640 33180 L112690 33200 L112710 33220 L112740 33270 L112740 33320 L112710 33370 L112690 33390 L112640 33420 L112470 33420 "
-       id="path22696" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22698" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22700">
-    <path
-       d="M112760 53330 L112740 53350 L112670 53380 L112620 53380 L112540 53350 L112500 53300 L112470 53250 L112450 53160 L112450 53080 L112470 52990 L112500 52940 L112540 52890 L112620 52870 L112670 52870 L112740 52890 L112760 52910 "
-       id="path22702" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22704" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22706">
-    <path
-       d="M112470 73060 L112470 72550 L112590 72550 L112670 72570 L112710 72620 L112740 72670 L112760 72760 L112760 72840 L112740 72930 L112710 72980 L112670 73030 L112590 73060 L112470 73060 "
-       id="path22708" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22710" />
@@ -489,25 +186,11 @@
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22754" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22756">
-    <path
-       d="M69690 76580 L112210 76580 "
-       id="path22758" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22760" />
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22874" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22876">
-    <path
-       d="M69690 75400 L112210 75400 "
-       id="path22878" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22880" />
@@ -521,13 +204,6 @@
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22954" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g22956">
-    <path
-       d="M69690 73820 L112210 73820 "
-       id="path22958" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g22960" />
   <g
@@ -536,13 +212,6 @@
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g23114" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g23116">
-    <path
-       d="M69690 71460 L112210 71460 "
-       id="path23118" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g23120" />
@@ -553,22 +222,8 @@
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g23174" />
   <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g23176">
-    <path
-       d="M77560 75400 L77560 76580 "
-       id="path23178" />
-  </g>
-  <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:100; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g23180" />
-  <g
-     style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g23182">
-    <path
-       d="M102760 75400 L102760 77960 "
-       id="path23184" />
-  </g>
   <g
      style="fill:#840000; fill-opacity:0.0;  stroke:#840000; stroke-width:0; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g23186" />
@@ -1010,4 +665,416 @@
   <g
      style="fill:#008484; fill-opacity:0.0;  stroke:#008484; stroke-width:60; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g26816" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="opacity:0.62999998;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:111.77244568;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4443"
+       width="116777.24"
+       height="82554.977"
+       x="55.865879"
+       y="69.142906" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Schematics"
+     style="display:inline">
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22466">
+      <rect
+         x="69690"
+         y="65360"
+         width="42520"
+         height="12600"
+         rx="0"
+         id="rect22468" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22472">
+      <rect
+         x="3940"
+         y="3940"
+         width="109050"
+         height="74800"
+         rx="0"
+         id="rect22474" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22478">
+      <rect
+         x="4720"
+         y="4720"
+         width="107490"
+         height="73240"
+         rx="0"
+         id="rect22480" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22484">
+      <path
+         d="m 23620,4720 0,-780"
+         id="path22486"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22490">
+      <path
+         d="m 43310,4720 0,-780"
+         id="path22492"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22496">
+      <path
+         d="m 62990,4720 0,-780"
+         id="path22498"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22502">
+      <path
+         d="m 82680,4720 0,-780"
+         id="path22504"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22508">
+      <path
+         d="m 102360,4720 0,-780"
+         id="path22510"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22514">
+      <path
+         d="m 14170,4560 -290,0"
+         id="path22516"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 14020,4560 0,-510 -50,70 -40,50 -50,20"
+         id="path22518"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22522">
+      <path
+         d="m 33560,4090 20,-20 50,-20 120,0 50,20 20,20 30,50 0,50 -30,70 -290,300 320,0"
+         id="path22524"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22528">
+      <path
+         d="m 53220,4050 320,0 -170,190 70,0 50,20 20,30 30,50 0,120 -30,50 -20,20 -50,30 -140,0 -50,-30 -30,-20"
+         id="path22530"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22534">
+      <path
+         d="m 73170,4220 0,340"
+         id="path22536"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 73050,4020 -120,370 310,0"
+         id="path22538"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22542">
+      <path
+         d="m 92880,4050 -240,0 -20,240 20,-30 50,-20 120,0 50,20 20,30 30,50 0,120 -30,50 -20,20 -50,30 -120,0 -50,-30 -20,-20"
+         id="path22544"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22548">
+      <path
+         d="m 112540,4050 -100,0 -50,20 -20,20 -50,80 -20,90 0,200 20,50 30,20 40,30 100,0 50,-30 20,-20 30,-50 0,-120 -30,-50 -20,-30 -50,-20 -100,0 -40,20 -30,30 -20,50"
+         id="path22550"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22554">
+      <path
+         d="m 23620,77960 0,780"
+         id="path22556"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22560">
+      <path
+         d="m 43310,77960 0,780"
+         id="path22562"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22566">
+      <path
+         d="m 62990,77960 0,780"
+         id="path22568"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22572">
+      <path
+         d="m 82680,77960 0,780"
+         id="path22574"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22578">
+      <path
+         d="m 102360,77960 0,780"
+         id="path22580"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22584">
+      <path
+         d="m 14170,78580 -290,0"
+         id="path22586"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 14020,78580 0,-510 -50,70 -40,50 -50,20"
+         id="path22588"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22592">
+      <path
+         d="m 33560,78110 20,-20 50,-20 120,0 50,20 20,20 30,50 0,50 -30,70 -290,300 320,0"
+         id="path22594"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22598">
+      <path
+         d="m 53220,78070 320,0 -170,190 70,0 50,20 20,30 30,50 0,120 -30,50 -20,20 -50,30 -140,0 -50,-30 -30,-20"
+         id="path22600"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22604">
+      <path
+         d="m 73170,78240 0,340"
+         id="path22606"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 73050,78040 -120,370 310,0"
+         id="path22608"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22612">
+      <path
+         d="m 92880,78070 -240,0 -20,240 20,-30 50,-20 120,0 50,20 20,30 30,50 0,120 -30,50 -20,20 -50,30 -120,0 -50,-30 -20,-20"
+         id="path22614"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22618">
+      <path
+         d="m 112540,78070 -100,0 -50,20 -20,20 -50,80 -20,90 0,200 20,50 30,20 40,30 100,0 50,-30 20,-20 30,-50 0,-120 -30,-50 -20,-30 -50,-20 -100,0 -40,20 -30,30 -20,50"
+         id="path22620"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22624">
+      <path
+         d="m 3940,23620 780,0"
+         id="path22626"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22630">
+      <path
+         d="m 3940,43310 780,0"
+         id="path22632"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22636">
+      <path
+         d="m 3940,62990 780,0"
+         id="path22638"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22642">
+      <path
+         d="m 4210,13860 240,0"
+         id="path22644"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 4160,14010 170,-510 170,510"
+         id="path22646"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22650">
+      <path
+         d="m 4370,33420 70,20 30,30 20,50 0,70 -20,50 -30,20 -40,30 -200,0 0,-510 170,0 50,20 20,20 30,50 0,50 -30,50 -20,20 -50,30 -170,0"
+         id="path22652"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22656">
+      <path
+         d="m 4490,53330 -20,20 -70,30 -50,0 -80,-30 -40,-50 -30,-50 -20,-90 0,-80 20,-90 30,-50 40,-50 80,-20 50,0 70,20 20,20"
+         id="path22658"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22662">
+      <path
+         d="m 4200,73060 0,-510 120,0 80,20 40,50 30,50 20,90 0,80 -20,90 -30,50 -40,50 -80,30 -120,0"
+         id="path22664"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22668">
+      <path
+         d="m 112990,23620 -780,0"
+         id="path22670"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22674">
+      <path
+         d="m 112990,43310 -780,0"
+         id="path22676"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22680">
+      <path
+         d="m 112990,62990 -780,0"
+         id="path22682"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22686">
+      <path
+         d="m 112480,13860 240,0"
+         id="path22688"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 112430,14010 170,-510 170,510"
+         id="path22690"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22694">
+      <path
+         d="m 112640,33420 70,20 30,30 20,50 0,70 -20,50 -30,20 -40,30 -200,0 0,-510 170,0 50,20 20,20 30,50 0,50 -30,50 -20,20 -50,30 -170,0"
+         id="path22696"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22700">
+      <path
+         d="m 112760,53330 -20,20 -70,30 -50,0 -80,-30 -40,-50 -30,-50 -20,-90 0,-80 20,-90 30,-50 40,-50 80,-20 50,0 70,20 20,20"
+         id="path22702"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22706">
+      <path
+         d="m 112470,73060 0,-510 120,0 80,20 40,50 30,50 20,90 0,80 -20,90 -30,50 -40,50 -80,30 -120,0"
+         id="path22708"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22756">
+      <path
+         d="m 69690,76580 42520,0"
+         id="path22758"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22876">
+      <path
+         d="m 69690,75400 42520,0"
+         id="path22878"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g22956">
+      <path
+         d="m 69690,73820 42520,0"
+         id="path22958"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g23116">
+      <path
+         d="m 69690,71460 42520,0"
+         id="path23118"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g23176">
+      <path
+         d="m 77560,75400 0,1180"
+         id="path23178"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g23182">
+      <path
+         d="m 102760,75400 0,2560"
+         id="path23184"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
 </svg>
